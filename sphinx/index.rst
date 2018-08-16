@@ -10,6 +10,12 @@ Welcome to Z-Project's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   code
+
+
+
+
+
 
 
 Indices and tables
